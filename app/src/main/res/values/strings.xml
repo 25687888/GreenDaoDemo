@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GreenDaoDemo</string>
+
+    <string name="db_insert">增</string>
+    <string name="db_delete">删</string>
+    <string name="db_search">查</string>
+    <string name="db_edit">改</string>
+    <string name="db_first">第一条</string>
+    <string name="db_delete_notes">批量删除</string>
+
+</resources>
